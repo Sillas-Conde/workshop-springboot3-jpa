@@ -5,7 +5,7 @@
 
 Projeto web services com Spring Boot e JPA / Hibernate, no qual é possível realizar operações CRUD de Usuários. O projeto apresenta também um 
 sistema de produtos, pedidos, itens de pedido, usuários e categorias de produtos, com o objetivo de estudar as funcionalidades e padrões de projeto 
-do Spring boot e Java, bem como suas relacões com bancos de dados relacionais com o auxílio do módulo Hibernate do JPA. O mapeamento objeto-relacional é o principal
+do Spring boot e Java, bem como suas relações com bancos de dados relacionais com o auxílio do módulo Hibernate do JPA. O mapeamento objeto-relacional é o principal
 protagonista deste exercício.
 
 
