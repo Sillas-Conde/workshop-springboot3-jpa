@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Spring Boot Market Backend
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Sillas-Conde/workshop-springboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
