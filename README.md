@@ -41,6 +41,10 @@ git clone https://github.com/Sillas-Conde/workshop-springboot3-jpa.git
 
 # Autor
 
+DevSuperior (curso Java)
+
+https://www.youtube.com/@DevSuperior
+
 Sillas Conde
 
 https://www.linkedin.com/in/sillas-conde/
